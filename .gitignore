@@ -1,1 +1,7 @@
-*.txt2
+*.csproj
+*.sln
+
+.vs/
+Logs/
+obj/
+Temp/
